@@ -7,6 +7,7 @@ O projeto ContaBancaria simula operações básicas de um sistema bancário em J
 🫸Funcionalidades: 
 
 - Entrada de dados com `Scanner`
+- Utilização do `Locale.getDefault()` para respeitar a vírgula/ponto do país do usuário
 - Formatação monetária com `printf` (`%.2f`)
 - Controle de localidade com `Locale.getDefault()`
 - Estrutura de repetição com `while`
